@@ -1,0 +1,4 @@
+interface:
+  display_name: "Energy Expert Roundtable"
+  short_description: "Run Sino-global energy expert roundtables"
+  default_prompt: "Use $energy-expert-roundtable to host a structured roundtable on this exploration-development question."
